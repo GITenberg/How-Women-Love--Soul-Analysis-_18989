@@ -1,0 +1,33 @@
+_repo: How-Women-Love--Soul-Analysis-_18989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nordau, Max Simon
+    aliases:
+    - Südfeld, Max Simon
+    - Sudfeld, Max Simon
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '1408'
+    url: http://www.gutenberg.org/2009/agents/1408
+    wikipedia: http://en.wikipedia.org/wiki/Max_Nordau
+description: Cover -- Contents.
+gutenberg_issued: '2006-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Fiction'
+tableOfContents: Justice or Revenge -- Prince and Peasant -- The Art of Growing Old
+  -- How Women Love -- A Midsummer Night's Dream
+title: How Women Love (Soul Analysis)
+url: http://www.gutenberg.org/ebooks/18989
